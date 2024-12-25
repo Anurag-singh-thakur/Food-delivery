@@ -1,7 +1,7 @@
-# FoodieDelight - MERN Stack Food Delivery Application  
+# Tomato - MERN Stack Food Delivery Application  
 
 ## Description  
-FoodieDelight is a full-stack food delivery application designed to provide customers with a seamless food ordering experience and admins with an efficient order management system. The app includes features for browsing menus, adding items to the cart, secure Stripe payment processing, and tracking orders. Admins can manage and update order statuses dynamically through the admin panel.  
+Tomato is a full-stack food delivery application designed to provide customers with a seamless food ordering experience and admins with an efficient order management system. The app includes features for browsing menus, adding items to the cart, secure Stripe payment processing, and tracking orders. Admins can manage and update order statuses dynamically through the admin panel.  
 
 ---
 
